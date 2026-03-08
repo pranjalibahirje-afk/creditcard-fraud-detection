@@ -26,6 +26,14 @@ This project develops a Machine Learning model to detect fraudulent credit card 
 8. Hyperparameter Tuning
 9. Feature Importance Analysis
 10. Model Saving
+## Dataset
+
+The dataset used in this project is larger than GitHub's file upload limit.
+
+You can download it from Google Drive:https://drive.google.com/file/d/1ikxIZzGNm7NgUCtS9WDfMYk0lfG25Avk/view?usp=drive_link
+
+Dataset Link:
+https://drive.google.com/file/d/xxxxxxxx/view?usp=sharing
 
 ## Machine Learning Models Used
 
